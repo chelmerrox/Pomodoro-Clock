@@ -98,3 +98,15 @@ html, body {
     color: black;
     font-weight: bolder;
 }
+
+#clock-interface-container {
+    margin-left: -200px;
+    margin-top: -150px;
+    margin-bottom: -100px;
+    margin-right: 1px;
+    display: inline-block;
+    position: relative;
+    top: -55px;
+    left: 255px;
+}
+
