@@ -119,3 +119,8 @@ html, body {
     top: -10px;
     left: 15px;
 }
+
+#clock-onterface-container-2 {
+    position: relative;
+    right: -600px;
+}
