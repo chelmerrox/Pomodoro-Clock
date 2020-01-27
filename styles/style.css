@@ -156,3 +156,9 @@ html, body {
     padding: 10px;
     background-color: rgb(102, 241, 67);
 }
+
+#copyright {
+    color: white;
+    position: relative;
+    right: -495px;
+}
