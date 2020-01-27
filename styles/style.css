@@ -88,3 +88,8 @@ html, body {
     border-right: rgb(102, 241, 67) 2px solid;
     border-top: rgb(102, 241, 67) 2px solid; 
 }
+
+#break-text {
+    margin-left: -10px;
+    padding: 2px 2px 2px -30px;
+}
