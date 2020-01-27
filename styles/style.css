@@ -1,0 +1,6 @@
+html, body {
+    margin: 0;
+    background-color: white;
+    font-family: arial, sans-serif;
+    background-image: url("../images/image-1.jpg")
+}
