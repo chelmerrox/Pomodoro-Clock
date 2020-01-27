@@ -21,3 +21,12 @@ html, body {
     font-size: 40px;
     font-weight: bolder;
 }
+
+#second-container {
+    margin: 80px 400px;
+    padding: 45px 250px;
+    background-color: white;
+    border: rgb(102, 241, 67) 2px solid;
+    border-radius: 1px;
+    box-shadow: rgb(102, 241, 67) 1px 1px 10px;
+}
