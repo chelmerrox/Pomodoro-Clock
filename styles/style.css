@@ -113,3 +113,9 @@ html, body {
 #clock-interface-container-1, #clock-interface-container-2 {
     display: inline-block;
 }
+
+#clock-interface-container-1 {
+    position: relative;
+    top: -10px;
+    left: 15px;
+}
