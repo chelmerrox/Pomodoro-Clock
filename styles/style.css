@@ -124,3 +124,9 @@ html, body {
     position: relative;
     right: -600px;
 }
+
+#minutes, #colon, #seconds {
+    display: inline-block;
+    color: black;
+    font-size: 40px;
+}
