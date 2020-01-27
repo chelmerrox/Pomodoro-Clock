@@ -70,3 +70,9 @@ html, body {
     padding: 10px;
     color: rgb(102, 241, 67);
 }
+
+#arrow-1:hover, #arrow-2:hover,
+#arrow-3:hover, #arrow-4:hover {
+    /* border: lightgrey 1px solid; */
+    box-shadow: 1px 1px 5px;
+}
