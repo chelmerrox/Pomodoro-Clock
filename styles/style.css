@@ -110,3 +110,6 @@ html, body {
     left: 255px;
 }
 
+#clock-interface-container-1, #clock-interface-container-2 {
+    display: inline-block;
+}
