@@ -76,3 +76,10 @@ html, body {
     /* border: lightgrey 1px solid; */
     box-shadow: 1px 1px 5px;
 }
+
+#down-arrow-1, #session-count, #up-arrow-1, 
+#down-arrow-2, #break-count, #up-arrow-2 {
+    display: inline-block;
+    margin: -65px;
+    padding: 14px;
+}
