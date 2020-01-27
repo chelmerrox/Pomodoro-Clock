@@ -169,3 +169,8 @@ html, body {
     font-size: 15px;
     left: 500px;
 }
+
+#year-author {
+    position: relative;
+    top: -6px;
+}
