@@ -83,3 +83,8 @@ html, body {
     margin: -65px;
     padding: 14px;
 }
+
+#break-container {
+    border-right: rgb(102, 241, 67) 2px solid;
+    border-top: rgb(102, 241, 67) 2px solid; 
+}
