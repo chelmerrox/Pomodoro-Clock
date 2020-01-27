@@ -145,3 +145,8 @@ html, body {
     padding: 5px;
     color: rgb(102, 241, 67);
 }
+
+#play-button:hover, #pause-button:hover,
+#stop-button:hover, #reset-button:hover {
+    box-shadow: lightgrey 1px 1px 2px;
+}
