@@ -13,3 +13,11 @@ html, body {
     border-radius: 23px;
     box-shadow: rgb(102, 241, 67) 1px 1px 3px;
 }
+
+#title {
+    padding: 1px 130px; 
+    color: rgb(102, 241, 67);
+    text-shadow: rgb(102, 241, 67) 1px 1px 8px;
+    font-size: 40px;
+    font-weight: bolder;
+}
