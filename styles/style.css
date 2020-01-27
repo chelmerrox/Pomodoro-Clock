@@ -162,3 +162,10 @@ html, body {
     position: relative;
     right: -495px;
 }
+
+#year-author {
+    display: inline-block;
+    color: white;
+    font-size: 15px;
+    left: 500px;
+}
