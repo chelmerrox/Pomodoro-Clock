@@ -36,3 +36,9 @@ html, body {
     padding: -25px;
     display: inline-block;
 }
+
+#session-container {
+    /* padding: 15px; */
+    border-right: rgb(102, 241, 67) 2px solid;
+    border-bottom: rgb(102, 241, 67) 2px solid; 
+}
