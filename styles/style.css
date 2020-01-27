@@ -130,3 +130,13 @@ html, body {
     color: black;
     font-size: 40px;
 }
+
+#play-button, #pause-button, 
+#stop-button, #reset-button {
+    outline: none;
+    padding: 1px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+   /*  position: relative;
+    right: 500px; */
+}
