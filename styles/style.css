@@ -61,3 +61,12 @@ html, body {
     position: relative;
     left: -120px;   
 }
+
+#arrow-1, #arrow-2, 
+#arrow-3, #arrow-4 {
+    outline: none;
+    border: none;
+    background-color: white;
+    padding: 10px;
+    color: rgb(102, 241, 67);
+}
