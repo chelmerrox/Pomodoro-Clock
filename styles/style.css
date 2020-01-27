@@ -140,3 +140,8 @@ html, body {
    /*  position: relative;
     right: 500px; */
 }
+
+#play, #pause, #stop, #reset {
+    padding: 5px;
+    color: rgb(102, 241, 67);
+}
